@@ -1,0 +1,11 @@
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkCodeFirst.csproj.AssemblyReference.cache
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkCodeFirst.csproj.SuggestedBindingRedirects.cache
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.StudentManagementForm.resources
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkCodeFirst.csproj.GenerateResource.cache
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkCodeFirst.csproj.CoreCompileInputs.cache
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+E:\PTUDDesktop\EntityFrameworkDemo\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
