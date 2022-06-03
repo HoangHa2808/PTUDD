@@ -115,11 +115,6 @@
 			// 
 			this.cbbClass.Font = new System.Drawing.Font("Constantia", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
 			this.cbbClass.FormattingEnabled = true;
-			this.cbbClass.Items.AddRange(new object[] {
-            "CTK42",
-            "CTK43",
-            "CTK44",
-            "CTK45"});
 			this.cbbClass.Location = new System.Drawing.Point(215, 45);
 			this.cbbClass.Name = "cbbClass";
 			this.cbbClass.Size = new System.Drawing.Size(281, 23);
